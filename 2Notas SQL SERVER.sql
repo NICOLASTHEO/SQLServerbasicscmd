@@ -15,3 +15,7 @@ FROM nomedatabela
 A equipe de marqueting precisa fazer pesquisa sobre nomes mais comuns dos clientes.
 E presisa nome e sobre nmome de todos os clientes que estão cadastrados no sistema.
 
+
+Solução:
+VER 5QUERY.sql
+
