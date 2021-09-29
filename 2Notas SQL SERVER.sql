@@ -17,5 +17,5 @@ E presisa nome e sobre nmome de todos os clientes que estão cadastrados no sist
 
 
 Solução:
-VER 5QUERY.sql
+VER 5QUERYSelect.sql
 
